@@ -1,2 +1,2 @@
-# MERN-PROYECT
+# MERN-FRONT
 Repositorio del Proyecto Integrador.
